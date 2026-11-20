@@ -1,0 +1,1 @@
+Draws armature bones **thin and see-through** (display only), so they stop hiding the joints. The selected bone stays solid. Toggle with **View ▸ Slim Bones**. Thickness and opacity are in **Settings ▸ Preview**. Bone data, export and weights are never changed.
